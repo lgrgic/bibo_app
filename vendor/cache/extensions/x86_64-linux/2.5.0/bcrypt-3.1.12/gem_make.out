@@ -1,0 +1,19 @@
+current directory: /mnt/c/Users/Bibici/Desktop/LukaProjekti/environment/bibo_app/vendor/cache/gems/bcrypt-3.1.12/ext/mri
+/home/adduser/.rvm/rubies/ruby-2.5.0/bin/ruby -r ./siteconf20180911-1968-1bjc8jw.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/Bibici/Desktop/LukaProjekti/environment/bibo_app/vendor/cache/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/Bibici/Desktop/LukaProjekti/environment/bibo_app/vendor/cache/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt.c
+compiling crypt_blowfish.c
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: /mnt/c/Users/Bibici/Desktop/LukaProjekti/environment/bibo_app/vendor/cache/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bcrypt_ext.so ./.gem.20180911-1968-ncxh1y
